@@ -4,7 +4,7 @@
     <mt-header fixed title="传智播客前端23期"></mt-header>
     <!-- 中间路由模板区 -->
     <router-view/>
-      
+       
     <!-- 底部导航区 -->
     <nav class="mui-bar mui-bar-tab">
       <router-link class="mui-tab-item" to="/home">
